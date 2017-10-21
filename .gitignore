@@ -4,3 +4,6 @@ bower.json
 composer.json
 Old.htaccess
 index_UNDER CONStruction.html
+constants.php
+database.php
+config.php
