@@ -1,6 +1,7 @@
 EatPrayRead is a blog for writing articles related to mostly technology. The idea is evolving and it is a long term project aimed towards sharing interesting technology related concepts.
 
 Technology Stack: LAMP
+
 Frameworks Used: CodeIgniter (PHP), AngularJS (Javascript) 
 Analytics Platform: Data Related to views and likes on articles is collected on www.eatprayread.com/site/stats
 Also, Google analytics and Quantcast measure are used to get rich insights on the platform
