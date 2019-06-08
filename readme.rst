@@ -1,3 +1,6 @@
+# Note
+    This is the older version of EatPrayRead. The newer version on React-Redux-Firestore tech stack.
+
 EatPrayRead is a blog for writing articles related to mostly technology. The idea is evolving and it is a long term project aimed towards sharing interesting technology related concepts.
 
 Technology Stack: LAMP
